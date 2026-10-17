@@ -1,0 +1,17 @@
+
+.hero-bg {
+  background-image: url("/mainbackground.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+}
+
+.food-img {
+  height: 230px;
+  width: 100%;
+  object-fit: cover;
+}
+
+footer {
+  background-color: #f5f5f5;
+}
